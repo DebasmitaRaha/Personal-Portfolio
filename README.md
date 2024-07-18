@@ -9,12 +9,15 @@ This is a responsive personal portfolio website showcasing my skills, education,
 * Contact form connected to Google Sheets.
 
 # Technologies Used
-* HTML
+* HTML 
 * CSS
 * Javascript
 * Google Sheets Api
 * Font Awesome for icons
 
+# API Used
+* __Google Sheets API__: Used for handling the contact form submissions. The form data is sent to a Google Sheet using a Google Apps Script.
+  
 # Utilization
 * The navigation menu allows to scroll to different sections of the portfolio.
 * The "Skills" and "Education" tabs provide detailed information about my technical abilities and academic background.
