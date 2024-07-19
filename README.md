@@ -1,5 +1,5 @@
 # Personal-Portfolio
-This is a responsive personal portfolio website showcasing my skills, education, projects, and contact information. The portfolio is designed to provide a professional and engaging platform to present my work. The website consists a Header,About,Portfolio and Contact Info sections.The website is responsive and includes animations and transitions for an interactive user experience.
+This is a personal portfolio website showcasing my skills, education, projects, and contact information. The portfolio is designed to provide a professional and engaging platform to present my work. The website consists a Header,About,Portfolio and Contact Info sections.The website is responsive and includes animations and transitions for an interactive user experience.
 
 # Features
 *  Responsive design for optimal viewing on different devices.
