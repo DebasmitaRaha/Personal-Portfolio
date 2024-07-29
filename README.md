@@ -25,7 +25,7 @@ This is a personal portfolio website showcasing my skills, education, projects, 
 * The contact form can be used to send me a message. The form is connected to a Google Sheet to record the database.
 
 # Demo Link:
-[Click here](https://drive.google.com/file/d/19lufXBePXWYwq0GbFg11S96kEQp0UACl/view?usp=sharing)
+[Click here](https://drive.google.com/file/d/1Ks7OKKUQI4VRK_LX2b7T2elrFdSd3wDC/view?usp=sharing)
 
 # Contributions
 If you find any kind of issues or have any suggestions for the improvement,please feel free to open an issue!
